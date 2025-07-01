@@ -1,0 +1,53 @@
+    
+body{ 
+  font-family: sans-serif;
+  background-image: url(fundo.jpg);
+  background-color: rgb(224, 218, 210);
+}
+
+.tituloprincipal{text-align: center; color: rgb(224, 166, 166);
+}
+
+p{
+    font-size: 25px; font-style: inherit;
+    /* Fonte Modificada */
+}
+
+  ul {
+    list-style-type: square;
+    /* Quadrado dos itens */
+  }
+
+  li {
+    margin-bottom: 25px; 
+    margin-top: 25px ;
+    /* Espaçamento entre os itens */
+  }
+
+  #arrendondar{
+    border-radius:4% ;
+    /* Borda arrendondada */
+  }
+
+  table{
+    background-color: rgba(255, 251, 0, 0.103); 
+    /* tabela estilisada */
+  } 
+
+  a.botao
+.linkcor {
+  color: blue; /* Cor padrão do link */
+}
+
+.linkcor:hover {
+  color: red; /* Cor quando o mouse passa por cima */
+}
+
+
+
+
+
+
+
+
+
